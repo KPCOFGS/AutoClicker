@@ -6,10 +6,11 @@ An autoclicker script wrote in Python
 
 You can download the script using `git`
 ```bash
-https://github.com/KPCOFGS/Minecraft_Scripts.git
+
 ```
-You can install the dependencies using pip:
+Then, install the dependencies using pip:
 ```bash
+cd AutoClicker
 pip install -r requirements.txt
 ```
 
