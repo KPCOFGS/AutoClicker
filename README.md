@@ -6,7 +6,7 @@ An autoclicker script wrote in Python
 
 You can download the script using `git`
 ```bash
-
+https://github.com/KPCOFGS/AutoClicker.git
 ```
 Then, install the dependencies using pip:
 ```bash
