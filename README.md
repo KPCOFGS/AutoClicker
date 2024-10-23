@@ -16,11 +16,11 @@ pip install -r requirements.txt
 
 ## Parameters
 
-`start_key` Required. Hotkey to press to activate
+First parameter: `start_key` Required. Hotkey to press to activate
 
-`interval` Required. Time between each click
+Second parameter: `interval` Required. Time between each click
 
-`mouse` Required. Click left or right
+Third parameter: `mouse` Required. Click left or right
 
 ## Example Usage
 
